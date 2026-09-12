@@ -42,7 +42,7 @@ Plataforma digital voltada à capacitação profissional e conexão direta entre
 
 O projeto busca unir tecnologia, educação e empregabilidade por meio de cursos, trilhas de aprendizagem e recursos de apoio ao desenvolvimento profissional.
 
-**Tecnologias:** Python, JavaScript, SQL, Supabase e tecnologias web.
+**Tecnologias:** Python, JavaScript, CSS, HTML, SQL, Supabase e tecnologias web.
 
 > Este projeto está em desenvolvimento contínuo e também funciona como meu laboratório prático de desenvolvimento de software.
 
