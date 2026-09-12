@@ -1,6 +1,6 @@
 # Rafaelle-Serafim
 
-Sou uma estudante de **Administração** pelo Senac, com interesse em tecnologia, dados e desenvolvimento de software. Também estudo, de maneira autônoma, conhecimentos de matérias para vestibulares, a fim de realizar novamente o ENEM e FUVEST em 2026, buscando ingressar em uma graduação em 2027. Ainda estou avaliando entre continuar minha formação em Administração ou direcioná-la para uma área de TI.
+Sou uma estudante de **Administração** pelo Senac, com interesse em tecnologia, dados e desenvolvimento de software. Também estudo, de maneira autônoma, conhecimentos de matérias para vestibulares, a fim de realizar novamente os vestibulares ENEM, FATEC e FUVEST em 2026, buscando ingressar em uma graduação em 2027. Ainda estou avaliando entre continuar minha formação em Administração ou direcioná-la para uma área de TI.
 
 Atualmente, estou ampliando minha formação para a área de tecnologia, estudando um pouco de programação, bancos de dados e computação em nuvem, buscando unir conhecimentos de negócios e tecnologia para desenvolver soluções práticas.
 
